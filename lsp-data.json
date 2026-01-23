@@ -1,1 +1,16 @@
-
+{
+  "distributors": [
+    {
+      "id": 1706000000000,
+      "name": "Demo Distributor",
+      "email": "cleowillo@gmail.com",
+      "u_code": "8888",
+      "prices": [
+        1000,
+        2000
+      ],
+      "currency": "JMD",
+      "customers": []
+    }
+  ]
+}
